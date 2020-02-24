@@ -1,5 +1,6 @@
 # Custom
 # Aliases
+export PROMPT_COMMAND="history -a; history -n"
 alias ls="ls -la --color=auto"
 
 # Add branch to prompt.
